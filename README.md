@@ -4,7 +4,7 @@ one can detect (visually and statistically) unexpected data-shifts called <em>dr
 real-world data. Detecting drift combats said bias by exposing flaws that may not have been considered in model development. Additionally, our application detects 
 feature-drift, thereby pinpointing the source(s) of bias.
 
-[<b>CodeFest 2022 Submission</b>](https://devpost.com/software/drift-cp84no)
+[<b>Codefest 2022 Submission</b>](https://devpost.com/software/drift-cp84no)
 
 Contributors:
 - Eyasu Woldu
