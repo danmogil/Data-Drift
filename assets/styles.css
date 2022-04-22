@@ -1,0 +1,36 @@
+body {
+  margin: 0px;
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: rgb(17, 17, 17);
+}
+
+#header {
+  display: flex;
+  align-items: center;
+  height: 10vh;
+}
+
+#content {
+  height: 90vh;
+  margin-top: -2vh;
+  overflow: hidden;
+}
+
+#content > * {
+  height: 100%;
+  width: 50%;
+}
+
+#title {
+  margin: 0 2vw;
+  color: white;
+  justify-content: center;
+  white-space: nowrap;
+}
+
+#x_axis,
+#y_axis {
+  width: 25vw;
+  align-self: center;
+  margin-right: 2vw;
+}
