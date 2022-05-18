@@ -13,7 +13,7 @@ Contributors:
 - Kevin Bacon
 - Likhon Gomes
 
-## Screenshots -
+## Preview -
 ![scatterGIF](./screenshots/scatter.gif)
 ---
 ![bar](./screenshots/bar.png)
